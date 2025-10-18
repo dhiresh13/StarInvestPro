@@ -11,10 +11,22 @@ const team = [
     initials: "SK",
   },
   {
-    name: "Yash Kedare",
-    role: "Chief Technology Officer",
+    name: "Aditya Mulgave",
+    role: "Chief Operations Officer",
+    bio: "Operations expert specializing in business process optimization and strategic growth initiatives. Drives operational excellence and ensures seamless execution across all business functions.",
+    initials: "AM",
+  },
+  {
+    name: "Dhiresh Gullapalli",
+    role: "Chief Technical Officer",
     bio: "Technology leader focused on scalable infrastructure and payment security, architecting solutions for the future. Expert in distributed systems and real-time processing.",
-    initials: "YK",
+    initials: "DG",
+  },
+  {
+    name: "Ashay Mitkari",
+    role: "Cyber Security Head",
+    bio: "Cybersecurity specialist ensuring the highest standards of data protection and security compliance. Leads security architecture and threat prevention initiatives to safeguard payment infrastructure.",
+    initials: "AHM",
   },
 ];
 
